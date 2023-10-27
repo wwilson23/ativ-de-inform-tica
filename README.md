@@ -3,5 +3,5 @@ repositório  voltado para a atividade de informatica
 *um asterisco para italico*
 **dois asteriscos para negrito**
 _m underline deixa em italico_
-***___ tres asteriscos e underline para deixar em negrito e com italico___***
+***tres asteriscos e underline para deixar em negrito e com italico***
 
